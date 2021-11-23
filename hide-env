@@ -1,0 +1,2 @@
+JWT_SECRET=mywish
+MONGO_LOCAL_CONN_URL=mongodb+srv://dawaaii:Dawaaii012@cluster0.hphbh.mongodb.net/indiacares?retryWrites=true&w=majority
